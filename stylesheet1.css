@@ -1,0 +1,27 @@
+body {
+	background: rgb(42,52,57);
+	font-family: 'Droid Serif', serif;
+}
+
+/* Title Header */
+.header {
+	background-color: rgb(75,83,32);
+	
+	color: white;
+	padding: 5px 10px;
+}
+
+/* footer with info */
+.footer {
+	background-color: rgb(75,83,32);
+	
+	padding: 6px;
+	clear: both;
+}
+
+#map-links {
+	width: 100px;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+}
