@@ -6,7 +6,7 @@ body {
 /* Title Header */
 .header {
 	background-color: rgb(75,83,32);
-	
+	font-family: 'Droid Serif', serif;
 	color: white;
 	padding: 5px 10px;
 }
@@ -14,7 +14,7 @@ body {
 /* footer with info */
 .footer {
 	background-color: rgb(75,83,32);
-	
+	font-family: 'Droid Serif', serif;
 	padding: 6px;
 	clear: both;
 }
